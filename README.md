@@ -33,7 +33,7 @@ LazyAPI is a lightweight, all-in-one API toolkit that automatically generates, s
 ### Frontend
 - Vite
 - Vue.js
-- Tailwind CSS
+- PrimeVue
 
 ### Backend
 - Fastify
