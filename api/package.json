@@ -10,7 +10,14 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^11.7.0",
     "dotenv": "^16.4.7",
-    "fastify": "^5.1.0"
+    "fastify": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mssql": "^11.0.1",
+    "mysql2": "^3.11.5",
+    "pg": "^8.13.1",
+    "sequelize": "^6.37.5"
   }
 }
